@@ -57,7 +57,7 @@
 ---
 ## 🎥 Видео-демонстрация
 
-- ▶️ [Смотреть на Google Диске](https://drive.google.com/file/d/ВАШ_ID_ЗДЕСЬ/view)
+- ▶️ [Смотреть на Google Диске]([https://drive.google.com/file/d/ВАШ_ID_ЗДЕСЬ/view](https://drive.google.com/file/d/1hioSqVlcDc8s77SdFCgAIbfbRyb5FSQl/view?usp=sharing))
 - 📁 [Локальное видео (demo.mp4)](video/demo.mp4)
 
 <video src="video/demo.mp4" controls width="100%"></video>
