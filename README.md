@@ -66,7 +66,9 @@
 
 ```bash
 git clone https://github.com/Ju1ce13/Data-Science.git
-cd predictive_maintenance
+cd Data-Science
+python3 -m venv venv
+source ./venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 
